@@ -86,7 +86,7 @@ jobs:
 
 ### 3. Subscribe to Slack
 
-Run in `#github-alerts`:
+Run in the dedicated alert channel:
 ```
 /github subscribe tophamguerin/YOUR-REPO-NAME issues pulls workflows
 ```
